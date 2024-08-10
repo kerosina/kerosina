@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm kerosina</h1>
 <h3 align="center">A Rust and C# programmer</h3>
 
-- 🔭 I’m currently working on **Cuprum**
+- 🔭 I’m currently working on **Lumen**
 
 - 🌱 I’m currently learning **Embassy, Actix**
 
