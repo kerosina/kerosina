@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Lumen**
 
-- 🌱 I’m currently learning **Embassy, Actix**
+- 🌱 I’m currently learning **Embassy, Tokio**
 
 - 📫 How to reach me **kerosina@pm.me**
 
