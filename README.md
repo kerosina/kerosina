@@ -12,6 +12,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kerosina&label=Profile%20views&color=0e75b6&style=flat" alt="kerosina" /> </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=kerosina&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">
+<img src="https://profile-stats-bay.vercel.app/api?username=kerosina&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kerosina&theme=radical&title_color=8E2DE2&text_color=fff)
+![Top Langs](https://profile-stats-bay.vercel.app/api/top-langs/?username=kerosina&theme=radical&title_color=8E2DE2&text_color=fff)
