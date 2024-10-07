@@ -14,4 +14,4 @@
 
 <img src="https://profile-stats-bay.vercel.app/api?username=kerosina&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">
 
-![Top Langs](https://profile-stats-bay.vercel.app/api/top-langs/?username=kerosina&theme=radical&title_color=8E2DE2&text_color=fff)
+![Top Langs](https://profile-stats-bay.vercel.app/api/top-langs/?username=kerosina&theme=radical&title_color=8E2DE2&text_color=fff&exclude_repo=simplekeyboard,profile-stats)
