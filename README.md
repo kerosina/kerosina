@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **Lumen**
 
-- 🌱 I’m currently learning **Embassy, Tokio**
+- 🌱 I’m currently learning **cryptography**
 
 - 📫 How to reach me: **kerosina@pm.me** or **@kerosina_** (discord)
 
