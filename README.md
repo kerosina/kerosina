@@ -13,4 +13,4 @@
 
 <img src="https://profile-stats-bay.vercel.app/api?username=kerosina&show_icons=true&theme=tokyonight&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2&show=reviews,prs_merged,prs_merged_percentage&show_icons=true">
 
-![Top Langs](https://profile-stats-bay.vercel.app/api/top-langs/?username=kerosina&theme=radical&title_color=8E2DE2&text_color=fff&exclude_repo=simple-keyboard,profile-stats)
+![Top Langs](https://profile-stats-bay.vercel.app/api/top-langs/?username=kerosina&theme=tokyonight&title_color=8E2DE2&text_color=fff&exclude_repo=simple-keyboard,profile-stats)
