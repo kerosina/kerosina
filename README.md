@@ -7,7 +7,7 @@
 - 📫 How to reach me: **kerosina@pm.me** or **@kerosinac** (discord)
 
 <h3 align="left">My Skills</h3>
-<img src="https://skillicons.dev/icons?arch,bash,linux,cs,dotnet,haskell,lua,rust,tauri,zig" alt="kerosina" />
+<img src="https://skillicons.dev/icons?i=arch,bash,linux,cs,dotnet,haskell,lua,rust,tauri,zig" alt="kerosina" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kerosina&label=Profile%20views&color=0e75b6&style=flat" alt="kerosina" /> </p>
 
