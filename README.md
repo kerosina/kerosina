@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm kerosina</h1>
 
-- 🔭 I’m currently working on **Lumen**
+- 🔭 I’m currently working on **Lucerne**
 
-- 🌱 I’m currently learning **cryptography**
+- 🌱 I’m currently learning **Zig**
 
 - 📫 How to reach me: **kerosina@pm.me** or **@kerosinac** (discord)
 
